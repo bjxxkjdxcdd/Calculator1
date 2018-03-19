@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 按钮按下效果 -->
+    <item android:drawable="@drawable/gray_bg"
+        android:state_pressed="true"/>
+
+    <!-- 按钮默认效果 -->
+    <item android:drawable="@drawable/edit_bg"/>
+</selector>
